@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/project/veh-lic-merged/train/images
+val: /content/drive/MyDrive/project/veh-lic-merged/val/images
+test: /content/drive/MyDrive/project/veh-lic-merged/test/images
+
+nc: 2
+names: ['license-plate', 'vehicle']
+
